@@ -1,0 +1,1 @@
+# Identificatin_of_objects_from_images_based_on_spoken_words
